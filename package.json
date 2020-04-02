@@ -1,6 +1,6 @@
 {
-  "homepage": "http://b00merang.github.io/Portfolio",
-  "name": "Portfolio",
+  "homepage": "http://sawar7577.github.io/Portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,16 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawar7577/sawar7577.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sawar7577/sawar7577.github.io/issues"
   }
 }
