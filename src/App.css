@@ -17,6 +17,11 @@
   margin-bottom: 10px;
 }
 
+.index-list {
+  line-height: 2;
+  letter-spacing: 1.5px;
+}
+
 .rmq-d92f5945 {
   font-weight: 300;
   font-size: 18px;
@@ -35,4 +40,34 @@
 
 .rmq-9b5d13cf {
   padding-bottom: 100px;
+}
+
+.Index-column {
+  float: left;
+  width: 30%;
+}
+
+.Elements--two_columns {
+  display: flex;
+}
+
+.Portfolio-column {
+  width: 70%;
+  float: right;
+}
+
+.Education-box {
+  margin: 0px auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.Skills {
+  float: right;
+}
+
+.About {
+  position: relative;
+  padding-top: 1000px;
+  margin-top: 100px;
 }
